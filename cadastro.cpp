@@ -7,13 +7,7 @@ int main(void){
 
 string nome;
 
-cout << "Ola qual o seu nome? ";
-
-cin >> nome;
-cout << endl;
-
-cout << "Bom dia " << nome << "!";
-cout<< endl;
+cout << "Tela de cadastro ";
 
 
 system("pause");
