@@ -2,4 +2,4 @@ Um breve introdução de um arquivo .txt criado na atividade 2 do TIC18.
 
 Adicionando informações aos arquivo introdução.txt da atividade 2 do TIC18. 
 
-Modificao pelo nano editor.
+Modificação pelo nano editor.
