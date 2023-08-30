@@ -2,4 +2,12 @@ Um breve introdução de um arquivo .txt criado na atividade 2 do TIC18.
 
 Adicionando informações aos arquivo introdução.txt da atividade 2 do TIC18. 
 
+
 Modificação pelo nano editor.
+
+
+Adicionando informações extras para o Exercício 6 da atividade 2.
+
+
+Incluindo informação adicional ao arquivo, conforme o exercício 6 da 
+'Introdução Prática 2'.
