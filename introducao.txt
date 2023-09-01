@@ -11,3 +11,6 @@ Adicionando informações extras para o Exercício 6 da atividade 2.
 
 Incluindo informação adicional ao arquivo, conforme o exercício 6 da 
 'Introdução Prática 2'.
+
+
+Adicionando uma nova alteração ao arquivo introducao.txt da atividade 2. Paulo Ricardo.
