@@ -14,6 +14,3 @@ Incluindo informação adicional ao arquivo, conforme o exercício 6 da
 
 
 Adicionando uma nova alteração ao arquivo introducao.txt da atividade 2. Paulo Ricardo.
-
-
-Modificação indesejada, para reverter no git revert
