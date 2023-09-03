@@ -14,3 +14,6 @@ Incluindo informação adicional ao arquivo, conforme o exercício 6 da
 
 
 Adicionando uma nova alteração ao arquivo introducao.txt da atividade 2. Paulo Ricardo.
+
+
+Criando a tag v1.0
